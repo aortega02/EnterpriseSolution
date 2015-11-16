@@ -1,0 +1,45 @@
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\bin\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmInicio.resources
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.Properties.Resources.resources
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe.licenses
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmConfigCon.resources
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe.config
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\Interop.Scripting.dll
+C:\Users\mchavez\AppData\Local\Temporary Projects\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.ResolveComReference.cache
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe.config
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\Interop.Scripting.dll
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.ResolveComReference.cache
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmConfigCon.resources
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmInicio.resources
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.Properties.Resources.resources
+C:\Users\mchavez\documents\visual studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe.licenses
+Y:\mchavez\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe.config
+Y:\mchavez\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\Interop.Scripting.dll
+Y:\mchavez\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.ResolveComReference.cache
+Y:\mchavez\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe
+Y:\mchavez\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\Documents\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.GenerateResource.Cache
+C:\Users\mchavez\Documents\Visual Studio 2010\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csprojResolveAssemblyReference.cache
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe.config
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\Interop.Scripting.dll
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.ResolveComReference.cache
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.exe
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\bin\Debug\EnterpriseSolution.pdb
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmConfigCon.resources
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.FrmInicio.resources
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.Properties.Resources.resources
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csproj.GenerateResource.Cache
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.exe.licenses
+C:\Users\mchavez\Documents\Visual Studio 2013\Projects\EnterpriseSolution\EnterpriseSolution\obj\x86\Debug\EnterpriseSolution.csprojResolveAssemblyReference.cache
