@@ -100,6 +100,7 @@ namespace EnterpriseSolution
         //#####  MODIFICA LOS DATOS DEL APPCONFIG  #####
         public bool ModificarSet(string Val = "", string Lic = "", string Inf = "", string Sk = "", string Upd = "")
         {
+
             try
             {
                 if (MiConfig.SectionInformation.IsProtected)
@@ -121,6 +122,8 @@ namespace EnterpriseSolution
                 {
                     MiConfig.Settings["InfEmp"].Value = Inf;
                 }
+
+               
 
                 if (!string.IsNullOrEmpty(Sk))
                 {

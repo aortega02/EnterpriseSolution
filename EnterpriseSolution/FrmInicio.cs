@@ -308,9 +308,10 @@ namespace EnterpriseSolution
                         VarConst.Empleado = tblVal.Rows[0]["USU_NOMEMP"].ToString().Trim();
                         VarConst.Auditor = "UserPC:" + System.Environment.UserName.ToString().ToUpper() + "_UserAP:" + VarConst.Usuario + "_PC:" + SystemInformation.ComputerName.ToString().ToUpper() + "_" + DateTime.Now.ToString();
                         VarConst.NumEmpresas = CmbEmpresa.Properties.Items.Count;
-
+                        
                         tblVal.Dispose();
                         //Modulo.Constantes();
+
                         MidPrincipal mdiPrincipal = new MidPrincipal();
                         mdiPrincipal.Text = mdiPrincipal.Text + " - USUARIO: " + VarConst.Usuario + " - PERFIL: " + VarConst.Perfil;
                         this.Hide();
@@ -334,6 +335,16 @@ namespace EnterpriseSolution
                 }
 
             }
+        }
+
+        private void TxtPassword_MouseEnter(object sender, EventArgs e)
+        {
+            TxtPassword.Properties.PasswordChar = '\0';
+        }
+
+        private void TxtPassword_MouseLeave(object sender, EventArgs e)
+        {
+            TxtPassword.Properties.PasswordChar = '*';
         }
     
     

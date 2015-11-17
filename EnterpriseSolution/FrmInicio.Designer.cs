@@ -88,11 +88,11 @@
             // 
             // TxtUsuario
             // 
-            this.TxtUsuario.Location = new System.Drawing.Point(66, 45);
+            this.TxtUsuario.Location = new System.Drawing.Point(65, 45);
             this.TxtUsuario.Name = "TxtUsuario";
             this.TxtUsuario.Properties.Appearance.ForeColor = System.Drawing.Color.Black;
             this.TxtUsuario.Properties.Appearance.Options.UseForeColor = true;
-            this.TxtUsuario.Size = new System.Drawing.Size(266, 20);
+            this.TxtUsuario.Size = new System.Drawing.Size(267, 20);
             this.TxtUsuario.StyleController = this.layoutControl1;
             this.TxtUsuario.TabIndex = 12;
             conditionValidationRule1.ConditionOperator = DevExpress.XtraEditors.DXErrorProvider.ConditionOperator.IsNotBlank;
@@ -102,17 +102,20 @@
             // 
             // TxtPassword
             // 
-            this.TxtPassword.Location = new System.Drawing.Point(66, 69);
+            this.TxtPassword.Location = new System.Drawing.Point(65, 69);
             this.TxtPassword.Name = "TxtPassword";
             this.TxtPassword.Properties.Appearance.ForeColor = System.Drawing.Color.Black;
             this.TxtPassword.Properties.Appearance.Options.UseForeColor = true;
-            this.TxtPassword.Size = new System.Drawing.Size(266, 20);
+            this.TxtPassword.Properties.PasswordChar = '*';
+            this.TxtPassword.Size = new System.Drawing.Size(267, 20);
             this.TxtPassword.StyleController = this.layoutControl1;
             this.TxtPassword.TabIndex = 5;
             conditionValidationRule2.ConditionOperator = DevExpress.XtraEditors.DXErrorProvider.ConditionOperator.IsNotBlank;
             conditionValidationRule2.ErrorText = "Campo Vacío";
             conditionValidationRule2.ErrorType = DevExpress.XtraEditors.DXErrorProvider.ErrorType.Critical;
             this.dxValidationProvider1.SetValidationRule(this.TxtPassword, conditionValidationRule2);
+            this.TxtPassword.MouseEnter += new System.EventHandler(this.TxtPassword_MouseEnter);
+            this.TxtPassword.MouseLeave += new System.EventHandler(this.TxtPassword_MouseLeave);
             // 
             // BtnValidar
             // 
@@ -137,11 +140,11 @@
             // 
             // CmbEmpresa
             // 
-            this.CmbEmpresa.Location = new System.Drawing.Point(66, 93);
+            this.CmbEmpresa.Location = new System.Drawing.Point(65, 93);
             this.CmbEmpresa.Name = "CmbEmpresa";
             this.CmbEmpresa.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.CmbEmpresa.Size = new System.Drawing.Size(266, 20);
+            this.CmbEmpresa.Size = new System.Drawing.Size(267, 20);
             this.CmbEmpresa.StyleController = this.layoutControl1;
             this.CmbEmpresa.TabIndex = 7;
             conditionValidationRule3.ConditionOperator = DevExpress.XtraEditors.DXErrorProvider.ConditionOperator.IsNotBlank;
@@ -299,7 +302,7 @@
             this.Controls.Add(this.layoutControl1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(362, 224);
+            this.MaximumSize = new System.Drawing.Size(362, 225);
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(362, 223);
             this.Name = "FrmInicio";
