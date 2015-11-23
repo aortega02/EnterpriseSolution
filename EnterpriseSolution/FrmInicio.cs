@@ -28,7 +28,7 @@ namespace EnterpriseSolution
             System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("es");
 
             string AuxDisco = "";
-
+           
             //#####  Captura información del disco duro de la aplicación  #####
             Scripting.FileSystemObject fso = new Scripting.FileSystemObject();
             Scripting.Drive selected_drive = fso.GetDrive(Application.ExecutablePath.Substring(0, 3));

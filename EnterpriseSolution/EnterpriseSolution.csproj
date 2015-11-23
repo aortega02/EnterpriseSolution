@@ -55,9 +55,81 @@
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Data.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v10.2.resources">
+      <HintPath>es\DevExpress.Data.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.CloneObject.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.CloneObject.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.FileAttachment.Web.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.FileAttachment.Web.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.FileAttachment.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.FileAttachment.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Objects.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Objects.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.PivotChart.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.PivotChart.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.PivotChart.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.PivotChart.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Printing.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Printing.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Reports.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Reports.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Reports.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Reports.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Scheduler.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Scheduler.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.ScriptRecorder.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.ScriptRecorder.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Security.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Security.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Validation.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Validation.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Validation.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Validation.Win.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ViewVariantsModule.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.ViewVariantsModule.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Win.v10.2.resources">
+      <HintPath>es\DevExpress.ExpressApp.Win.v10.2.resources.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.OfficeSkins.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v10.2.Core.resources">
+      <HintPath>es\DevExpress.PivotGrid.v10.2.Core.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v10.2.Core.resources">
+      <HintPath>es\DevExpress.RichEdit.v10.2.Core.resources.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.SpellChecker.v10.2.Core, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v10.2.resources">
+      <HintPath>es\DevExpress.Utils.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Core.v10.2.resources">
+      <HintPath>es\DevExpress.Xpf.Core.v10.2.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Docking.v10.2.resources">
+      <HintPath>es\DevExpress.Xpf.Docking.v10.2.resources.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.XtraBars.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraLayout.v10.2, Version=10.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -207,16 +279,28 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\star_full.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\star_full1.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\user_manage.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\security_lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home3.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -122,9 +122,6 @@ namespace EnterpriseSolution
                 {
                     MiConfig.Settings["InfEmp"].Value = Inf;
                 }
-
-               
-
                 if (!string.IsNullOrEmpty(Sk))
                 {
                     MiConfig.Settings["Skins"].Value = Sk;
